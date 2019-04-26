@@ -3,9 +3,7 @@ package lunar.controller;
 public class LunarController 
 {
 	private int[][] grid;
-	
-	private int landerVelocity;
-	private int G;
+	private double G;
 	
 	
 	public LunarController()
